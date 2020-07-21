@@ -15,10 +15,8 @@ public class Matrix {
 								 System.out.print(list[i]);
 					  }
 					 }
+				System.out.println("Program end...");
 
-			}
-
-		
-	
+	}
 
 }
