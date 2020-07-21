@@ -5,7 +5,7 @@ public class Matrix {
 	
 
 			public static void main(String[] args) {
-				System.out.println("Printing a MATRIX ...  in reverse mode and done.\n");
+				System.out.println("Printing a MATRIX ...  in reverse mode and done....\n");
 				String[][] matrix = { {"a","b","c"},
 						                 {"e","f","g"},
 						                {"h","i","j"} };
