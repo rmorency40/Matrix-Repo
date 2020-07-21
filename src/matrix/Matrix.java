@@ -18,6 +18,10 @@ public class Matrix {
 				System.out.println("\nProgram end...");
 				System.out.println("\n\n\nProgram end...");
 				System.out.println("\n\nProgram ended");
+				
+				for (int i = 0; i < 10; i++) {
+					System.out.print(i * i + " ");
+				}
 
 	}
 
