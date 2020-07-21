@@ -16,6 +16,7 @@ public class Matrix {
 					  }
 					 }
 				System.out.println("\nProgram end...");
+				System.out.println("\n\n\nProgram end...");
 
 	}
 
