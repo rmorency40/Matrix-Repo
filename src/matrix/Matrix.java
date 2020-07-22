@@ -15,14 +15,18 @@ public class Matrix {
 								 System.out.print(list[i]);
 					  }
 					 }
-				System.out.println("\nProgram end...");
-				System.out.println("\n\n\nProgram end...");
-				System.out.println("\n\nProgram ended");
 				
+						 System.out.println("\nLoop starting ...");
 				for (int i = 0; i < 10; i++) {
 					System.out.print(i * i + " ");
 				}
-
+				System.out.println("\n\n");
+				for (int n= 0; n < 12; n++) {
+					System.out.print(n  + n + " ");
+				}
+				
+				System.out.println("\n\n\nProgram end...");
+				System.out.println("\n\nProgram ended");
 	}
 
 }
